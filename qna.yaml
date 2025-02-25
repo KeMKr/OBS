@@ -78,4 +78,4 @@ document:
   repo: https://github.com/KeMKr/OBS
   commit: 12a96130ec0e23b48a2dcab65aac08f13d56b525
   patterns:
-    - data.md
+    - OBS.md
