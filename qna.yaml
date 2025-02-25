@@ -1,4 +1,4 @@
-version: 1
+version: 2
 domain: obs
 created_by: kkristensen
 seed_examples:
@@ -76,6 +76,6 @@ document_outline: |
       Some info about OBS 
 document:
   repo: https://github.com/KeMKr/OBS.git
-  commit: f99f76627a20e3b89db53a49a4df8dd0b3863eb2
+  commit: fcff0c65b4065d561eab0ba262bef57688891d77
   patterns:
     - OBS.md
