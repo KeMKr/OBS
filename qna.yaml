@@ -2,80 +2,83 @@ version: 2
 domain: obs
 created_by: kkristensen
 seed_examples:
-		-context: |
-			Orange Business is the business services arm of Orange S.A., functioning as a global integrator of communications, products, and services for multinational corporations. Initially known as Orange Business Services, the company rebranded as Orange Business on 16 February 2023.
-		questions_and_answers:
-		-question: |
-			What is Orange Business?
-		answer: |
-			Orange Business is the business services arm of Orange S.A., providing communications, products, and services for multinational corporations.
-		-question: |
-			When was Orange Business Services renamed to Orange Business?
-		-answer: |
-			Orange Business Services was renamed to Orange Business on 16 February 2023.
-		-question: |
-			What does Orange Business specialize in?
-		answer: |
-			Orange Business specializes in integrating communications, products, and services for multinational corporations.
-		-context: |
-			Orange Business offers integrated communications products and services to global enterprises in cloud computing, unified communications, collaboration, big data, Internet of Things, and artificial intelligence, which manage and integrate the complexity of international communications and software applications.
-			Orange Business was founded on 1 June 2006, through a rebranding and consolidation of the existing France Telecom businesses of Equant and Wanadoo. Orange Business also acquired giants like Business & Decision and Basefarm in recent years, who specialize in analytics, data science, and cloud computing.
-		  questions_and_answers:
-			- question: |
-				What services does Orange Business offer?
-			  answer: |
-				Orange Business offers integrated communications products and services in cloud computing, unified communications, collaboration, big data, Internet of Things, and artificial intelligence.
-			- question: |
-				When was Orange Business founded?
-			  answer: |
-				Orange Business was founded on 1 June 2006.
-			- question: |
-				How was Orange Business created?
-			  answer: |
-				Orange Business was created through a rebranding and consolidation of the existing France Telecom businesses of Equant and Wanadoo.
-			- question: |
-				Which companies has Orange Business acquired?
-			  answer: |
-				Orange Business has acquired Business & Decision and Basefarm, which specialize in analytics, data science, and cloud computing.
+  - context: |
+      Orange Business is the business services arm of Orange S.A., functioning as a global integrator of communications, products, and services for multinational corporations. Initially known as Orange Business Services, the company rebranded as Orange Business on 16 February 2023.
+    questions_and_answers:
+      - question: |
+          What is Orange Business?
+        answer: |
+          Orange Business is the business services arm of Orange S.A., providing communications, products, and services for multinational corporations.
+      - question: |
+          When was Orange Business Services renamed to Orange Business?
+        answer: |
+          Orange Business Services was renamed to Orange Business on 16 February 2023.
+      - question: |
+          What does Orange Business specialize in?
+        answer: |
+          Orange Business specializes in integrating communications, products, and services for multinational corporations.
 
-		-context: |
-		  Operating in over 220 countries and territories, the company employs over 21,000 employees in 166 countries. Over the last few years, €700 million were invested in research and development with dedicated 8,000 employees including scientists, engineers, developers, designers, sociologists, and marketers.
-		questions_and_answers:
-			-question: |
-				How many countries and territories does the company operate in?
-			answer: |
-				The company operates in over 220 countries and territories.
-			-question: |
-				How many employees does the company have?
-			answer: |
-				The company employs over 21,000 employees in 166 countries.
-			-question: |
-				How much has the company invested in research and development?
-			answer: |
-				The company has invested €700 million in research and development over the last few years.
-			-question: |
-				How many employees are dedicated to research and development?
-			answer: |
-				The company has 8,000 employees dedicated to research and development, including scientists, engineers, developers, designers, sociologists, and marketers.
-		-context: |
-			Orange Labs is made up of 12 research and development and innovation centers across four continents and has 7,000 patents. It's ranked the 19th most innovative company worldwide.
-		questions_and_answers:
-			-question: |
-				How many research and development centers does Orange Labs have?
-			answer: |
-				Orange Labs has 12 research and development and innovation centers.
-			-question: |
-				How many patents does Orange Labs have?
-			answer: |
-				Orange Labs has 7,000 patents.
-			-question: |
-				What is Orange Labs' global innovation ranking?
-			answer: |
-				Orange Labs is ranked as the 19th most innovative company worldwide.
+  - context: |
+      Orange Business offers integrated communications products and services to global enterprises in cloud computing, unified communications, collaboration, big data, Internet of Things, and artificial intelligence, which manage and integrate the complexity of international communications and software applications.
+      Orange Business was founded on 1 June 2006, through a rebranding and consolidation of the existing France Telecom businesses of Equant and Wanadoo. Orange Business also acquired giants like Business & Decision and Basefarm in recent years, who specialize in analytics, data science, and cloud computing.
+    questions_and_answers:
+      - question: |
+          What services does Orange Business offer?
+        answer: |
+          Orange Business offers integrated communications products and services in cloud computing, unified communications, collaboration, big data, Internet of Things, and artificial intelligence.
+      - question: |
+          When was Orange Business founded?
+        answer: |
+          Orange Business was founded on 1 June 2006.
+      - question: |
+          How was Orange Business created?
+        answer: |
+          Orange Business was created through a rebranding and consolidation of the existing France Telecom businesses of Equant and Wanadoo.
+      - question: |
+          Which companies has Orange Business acquired?
+        answer: |
+          Orange Business has acquired Business & Decision and Basefarm, which specialize in analytics, data science, and cloud computing.
+
+  - context: |
+      Operating in over 220 countries and territories, the company employs over 21,000 employees in 166 countries. Over the last few years, €700 million were invested in research and development with dedicated 8,000 employees including scientists, engineers, developers, designers, sociologists, and marketers.
+    questions_and_answers:
+      - question: |
+          How many countries and territories does the company operate in?
+        answer: |
+          The company operates in over 220 countries and territories.
+      - question: |
+          How many employees does the company have?
+        answer: |
+          The company employs over 21,000 employees in 166 countries.
+      - question: |
+          How much has the company invested in research and development?
+        answer: |
+          The company has invested €700 million in research and development over the last few years.
+      - question: |
+          How many employees are dedicated to research and development?
+        answer: |
+          The company has 8,000 employees dedicated to research and development, including scientists, engineers, developers, designers, sociologists, and marketers.
+
+  - context: |
+      Orange Labs is made up of 12 research and development and innovation centers across four continents and has 7,000 patents. It's ranked the 19th most innovative company worldwide.
+    questions_and_answers:
+      - question: |
+          How many research and development centers does Orange Labs have?
+        answer: |
+          Orange Labs has 12 research and development and innovation centers.
+      - question: |
+          How many patents does Orange Labs have?
+        answer: |
+          Orange Labs has 7,000 patents.
+      - question: |
+          What is Orange Labs' global innovation ranking?
+        answer: |
+          Orange Labs is ranked as the 19th most innovative company worldwide.
+
 document_outline: |
-      Some info about OBS 
+  Some info about OBS
 document:
   repo: https://github.com/KeMKr/OBS.git
   commit: fcff0c65b4065d561eab0ba262bef57688891d77
-  patterns:
-    - OBS.md
+patterns:
+  - OBS.md
