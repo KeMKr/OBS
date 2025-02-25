@@ -75,7 +75,7 @@ seed_examples:
 document_outline: |
       Some info about OBS 
 document:
-  repo: https://github.com/KeMKr/OBS
+  repo: https://github.com/KeMKr/OBS.git
   commit: f99f76627a20e3b89db53a49a4df8dd0b3863eb2
   patterns:
     - OBS.md
