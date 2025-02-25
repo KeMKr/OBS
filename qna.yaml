@@ -40,7 +40,7 @@ seed_examples:
           Orange Business has acquired Business & Decision and Basefarm, which specialize in analytics, data science, and cloud computing.
 
   - context: |
-      Operating in over 220 countries and territories, the company employs over 21,000 employees in 166 countries. Over the last few years, €700 million were invested in research and development with dedicated 8,000 employees including scientists, engineers, developers, designers, sociologists, and marketers.
+      Operating in over 220 countries and territories, the company employs over 21,000 employees in 166 countries. Over the last few years, 700 million were invested in research and development with dedicated 8,000 employees including scientists, engineers, developers, designers, sociologists, and marketers.
     questions_and_answers:
       - question: |
           How many countries and territories does the company operate in?
@@ -53,7 +53,7 @@ seed_examples:
       - question: |
           How much has the company invested in research and development?
         answer: |
-          The company has invested €700 million in research and development over the last few years.
+          The company has invested 700 million in research and development over the last few years.
       - question: |
           How many employees are dedicated to research and development?
         answer: |
