@@ -92,5 +92,5 @@ document_outline: |
 document:
   repo: https://github.com/KeMKr/OBS.git
   commit: 12a96130ec0e23b48a2dcab65aac08f13d56b525
-patterns: |
-  - OBS.md
+  patterns: |
+    - OBS.md
