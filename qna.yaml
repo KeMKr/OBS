@@ -91,5 +91,5 @@ document_outline: |
 document:
   repo: https://github.com/KeMKr/OBS.git
   commit: aa3f3d3f0fbc33b6491f469d283701001753b9f7
-  patterns: |
+  patterns:
     - data.md
