@@ -79,6 +79,6 @@ document_outline: |
   Some info about OBS
 document:
   repo: https://github.com/KeMKr/OBS.git
-  commit: 08886c30be18f1ad6692a7d3e78cca97bcd76e82
+  commit: 12a96130ec0e23b48a2dcab65aac08f13d56b525
 patterns:
   - OBS.md
